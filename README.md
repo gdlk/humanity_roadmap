@@ -44,6 +44,10 @@
 Архитектура и этапы внедрения системы персонального биомоделирования.
 *   **Стек:** Python, Rust, PyTorch, Kubernetes.
 *   **Срок:** 2026–2027.
+*   **Документация проекта:** [projects/digital_health_twin/](./projects/digital_health_twin/)
+    *   [Architecture](./projects/digital_health_twin/architecture.md)
+    *   [API Specification](./projects/digital_health_twin/api_spec.md)
+    *   [Design Document](./projects/digital_health_twin/design_document.md)
 
 ### 6. [humanity_plan_2100.md](./docs/humanity_plan_2100.md)
 **Стратегия 2100: Век Трансформации.**
