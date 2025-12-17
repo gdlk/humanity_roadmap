@@ -11,7 +11,7 @@ graph TD
     subgraph "Simulation Core"
         Integrator[Time Integrator]
         ForceField[Force Field Calculator]
-        QuantumSolver[Quantum Solver (DFT)]
+        QuantumSolver["Quantum Solver (DFT)"]
         NeighborList[Neighbor List Manager]
     end
     
